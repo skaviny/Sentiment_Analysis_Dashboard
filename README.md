@@ -12,8 +12,7 @@ This project analyzes user reviews by cleaning and preprocessing the data, using
 - Sentiment Share (Pie Chart)  
 - Rating By Source (Bar Chart)  
 - Location Insights (Bar Chart)  
-- Key Insights based on filters  
-- Fine-tuned Hugging Face model for sentiment classification  
+- Key Insights based on filters   
 - Sentiment prediction using the trained model  
 
 ---
