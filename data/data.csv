@@ -1,0 +1,91 @@
+id,user_id,text,sentiment,rating,source,location,date
+1,101,Amazing product highly recommend,positive,5,amazon,India,12-03-2025
+2,102,Loved it worth every penny,positive,5,flipkart,India,25-01-2025
+3,103,Super quality and fast delivery,positive,4,amazon,USA,18-02-2025
+4,104,Exceeded my expectations,positive,5,instagram,UK,09-04-2025
+5,105,Fantastic experience will buy again,positive,4,twitter,Canada,14-03-2025
+6,106,Worst purchase ever,negative,1,amazon,India,03-02-2025
+7,107,Very disappointed with quality,negative,2,flipkart,USA,28-01-2025
+8,108,Not worth the money,negative,1,twitter,UK,17-03-2025
+9,109,Terrible experience overall,negative,2,instagram,Canada,21-02-2025
+10,110,Completely useless product,negative,1,amazon,Australia,30-03-2025
+11,111,Amazing build quality,positive,5,amazon,India,05-04-2025
+12,112,Fast delivery and good service,positive,4,flipkart,USA,11-02-2025
+13,113,Highly satisfied with purchase,positive,5,twitter,UK,07-01-2025
+14,114,Good value for money,positive,4,instagram,Canada,19-03-2025
+15,115,Excellent product quality,positive,5,amazon,Australia,22-02-2025
+16,116,Stopped working within days,negative,1,flipkart,India,08-03-2025
+17,117,Poor experience overall,negative,2,twitter,USA,16-01-2025
+18,118,Defective item received,negative,1,instagram,UK,13-02-2025
+19,119,Not satisfied with durability,negative,2,amazon,Canada,01-04-2025
+20,120,Cheap material poor quality,negative,1,flipkart,Australia,10-03-2025
+21,121,Superb product highly recommended,positive,5,twitter,India,06-02-2025
+22,122,Very smooth performance,positive,4,instagram,USA,24-03-2025
+23,123,Good experience overall,positive,4,amazon,UK,20-01-2025
+24,124,Excellent service and delivery,positive,5,flipkart,Canada,02-04-2025
+25,125,Product quality is amazing,positive,5,instagram,Australia,27-02-2025
+26,126,Stopped working after few days,negative,1,amazon,India,09-01-2025
+27,127,Not as expected poor build,negative,2,flipkart,USA,15-03-2025
+28,128,Very bad packaging,negative,1,twitter,UK,04-02-2025
+29,129,Highly recommend this product,positive,5,instagram,Canada,23-03-2025
+30,130,Great value and performance,positive,4,amazon,Australia,12-02-2025
+31,131,Amazing experience overall,positive,5,flipkart,India,17-03-2025
+32,132,Loved the product quality,positive,5,twitter,USA,06-01-2025
+33,133,Very poor quality product,negative,2,instagram,UK,28-03-2025
+34,134,Defective piece received,negative,1,amazon,Canada,11-01-2025
+35,135,Fast delivery good service,positive,4,flipkart,Australia,19-02-2025
+36,136,Worst experience ever,negative,1,twitter,India,07-03-2025
+37,137,Not worth buying at all,negative,1,instagram,USA,13-01-2025
+38,138,Excellent performance quality,positive,5,amazon,UK,25-02-2025
+39,139,Very disappointing product,negative,2,flipkart,Canada,08-04-2025
+40,140,Broken item received completely,negative,1,twitter,Australia,21-03-2025
+41,141,Super fast delivery service,positive,5,instagram,India,02-02-2025
+42,142,Good product slightly expensive,positive,4,amazon,USA,14-03-2025
+43,143,Very bad experience overall,negative,2,flipkart,UK,05-02-2025
+44,144,Amazing build quality product,positive,5,twitter,Canada,18-03-2025
+45,145,Highly satisfied purchase,positive,5,instagram,Australia,09-02-2025
+46,146,Stopped working within week,negative,1,amazon,India,22-03-2025
+47,147,Poor durability and finish,negative,2,flipkart,USA,03-01-2025
+48,148,Excellent product recommended,positive,5,twitter,UK,16-03-2025
+49,149,Good value performance product,positive,4,instagram,Canada,27-01-2025
+50,150,Not satisfied at all product,negative,1,amazon,Australia,04-04-2025
+51,151,Great product quality,positive,5,flipkart,India,10-01-2025
+52,152,Very bad experience,negative,1,twitter,USA,12-02-2025
+53,153,Excellent service and support,positive,5,instagram,UK,15-03-2025
+54,154,Poor quality item received,negative,2,amazon,Canada,18-01-2025
+55,155,Highly recommended product,positive,5,flipkart,Australia,21-02-2025
+56,156,Stopped working suddenly,negative,1,twitter,India,24-03-2025
+57,157,Good performance overall,positive,4,instagram,USA,26-01-2025
+58,158,Very disappointing experience,negative,2,amazon,UK,28-02-2025
+59,159,Amazing value for money,positive,5,flipkart,Canada,03-04-2025
+60,160,Defective product received,negative,1,twitter,Australia,06-02-2025
+61,161,Excellent build quality,positive,5,instagram,India,09-03-2025
+62,162,Not worth buying product,negative,2,amazon,USA,11-01-2025
+63,163,Super fast delivery service,positive,5,flipkart,UK,14-02-2025
+64,164,Poor packaging quality,negative,1,twitter,Canada,17-03-2025
+65,165,Great experience overall,positive,5,instagram,Australia,20-01-2025
+66,166,Worst product ever used,negative,1,amazon,India,23-02-2025
+67,167,Highly satisfied product,positive,5,flipkart,USA,25-03-2025
+68,168,Very bad quality item,negative,2,twitter,UK,27-01-2025
+69,169,Excellent service fast delivery,positive,5,instagram,Canada,30-03-2025
+70,170,Broken product received,negative,1,amazon,Australia,02-02-2025
+71,171,Good value for money,positive,4,flipkart,India,05-01-2025
+72,172,Not satisfied product quality,negative,2,twitter,USA,08-03-2025
+73,173,Amazing product experience,positive,5,instagram,UK,10-02-2025
+74,174,Poor durability product,negative,1,amazon,Canada,13-03-2025
+75,175,Highly recommended item,positive,5,flipkart,Australia,16-01-2025
+76,176,Very disappointing product,negative,2,twitter,India,19-02-2025
+77,177,Excellent quality service,positive,5,instagram,USA,21-03-2025
+78,178,Stopped working quickly,negative,1,amazon,UK,24-01-2025
+79,179,Good product overall,positive,4,flipkart,Canada,27-02-2025
+80,180,Defective item received,negative,1,twitter,Australia,30-03-2025
+81,181,Amazing performance product,positive,5,instagram,India,02-01-2025
+82,182,Very bad experience overall,negative,2,amazon,USA,05-02-2025
+83,183,Excellent build quality item,positive,5,flipkart,UK,08-03-2025
+84,184,Poor packaging received,negative,1,twitter,Canada,11-01-2025
+85,185,Highly satisfied experience,positive,5,instagram,Australia,14-02-2025
+86,186,Worst product quality,negative,1,amazon,India,17-03-2025
+87,187,Good service and delivery,positive,4,flipkart,USA,20-01-2025
+88,188,Not worth the price,negative,2,twitter,UK,23-02-2025
+89,189,Excellent product highly recommended,positive,5,instagram,Canada,26-03-2025
+90,190,Completely broken item received,negative,1,amazon,Australia,29-01-2025

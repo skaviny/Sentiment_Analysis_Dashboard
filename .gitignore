@@ -1,0 +1,7 @@
+model/
+checkpoint-18/
+saved_model/
+*.bin
+*.pt
+*.pkl
+*.json
