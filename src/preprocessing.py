@@ -1,8 +1,10 @@
+import nltk
 import pandas as pd
 import string
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-
+nltk.download("stopwords")
+nltk.download("wordnet")
 
 def preprocess_data(df):
 
